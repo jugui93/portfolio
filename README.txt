@@ -1,10 +1,6 @@
-MDB5
-Version: FREE 4.1.0
+Thanks for downloading this theme!
 
-color verde :35CC06
-blanco: FFFFFF
-Documentation:
-https://mdbootstrap.com/docs/standard/
-
-Contact:
-office@mdbootstrap.com
+Theme Name: DevFolio
+Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+Author: BootstrapMade.com
+Author URL: https://bootstrapmade.com
